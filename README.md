@@ -1,4 +1,4 @@
-# Predicting-a-wine-s-score
+# Predicting the quality of a wine
 
 ## Overview
 
