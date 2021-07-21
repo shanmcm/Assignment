@@ -22,8 +22,8 @@ The following is an example of a record:
 
 
 Within the archive, you can find the following 2 files:
-• dev.tsv (development set): a tab-separated values file containing the reviews from the development
+- dev.tsv (development set): a tab-separated values file containing the reviews from the development
 set. This portion has the quality feature, which is used to train and validate the
 model.
-• eval.tsv (evaluation set): a tab-separated values file containing the reviews from the evaluation set.
+- eval.tsv (evaluation set): a tab-separated values file containing the reviews from the evaluation set.
 This portion does not have the quality feature.
